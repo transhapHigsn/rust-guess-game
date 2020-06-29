@@ -1,6 +1,6 @@
 [package]
 name = "guess_game"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Prashant Singh <fet.prashantsingh@gmail.com> "]
 edition = "2018"
 
